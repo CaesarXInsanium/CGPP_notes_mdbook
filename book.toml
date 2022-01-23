@@ -1,0 +1,6 @@
+[book]
+authors = ["CaesarXInsanium"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CGPP"
