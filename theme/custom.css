@@ -1,0 +1,7 @@
+@font-face{
+	font-family: 'Cascadia Code';
+	font-style: normal;
+	font-weight: 500;
+	src: url('../font/CascadiaCode.ttf') format('ttf');
+	font-display: swap;
+}

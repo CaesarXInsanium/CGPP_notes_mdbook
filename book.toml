@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "CGPP"
+[output.html]
+mathjax-support = true
+additional-css = ["theme/custom.css"]
